@@ -19,3 +19,4 @@ Mostly are written in Korean.
 
 ## React
 - [Custom Hooks](https://github.com/ekim49/TIL/blob/main/Custom%20Hooks/customhooks.md)
+- [Code Splitting](https://github.com/ekim49/TIL/blob/main/Code-Splitting/code_splitting.md)
