@@ -8,6 +8,7 @@ Mostly are written in Korean.
 
 ## Algorithm
 - [Binary Search 이진 탐색](https://github.com/ekim49/TIL/blob/main/Binary-search/binary-search.md)
+- [LIS](https://github.com/ekim49/TIL/blob/main/Longest-Increasing-Subsequence/lis.md)
 
 ## CS
 - [HTTP 무상태성 비연결성](https://github.com/ekim49/TIL/tree/main/HTTP)
