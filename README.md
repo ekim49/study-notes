@@ -8,6 +8,7 @@ Mostly are written in Korean.
 
 ## Algorithm
 - [Binary Search 이진 탐색](https://github.com/ekim49/TIL/blob/main/Binary-search/binary-search.md)
+- [Bubble Sort](https://github.com/ekim49/TIL/blob/main/Bubble-Sort/bubbleSort.md)
 - [LIS, Longest Increasing Subsequence](https://github.com/ekim49/TIL/blob/main/Longest-Increasing-Subsequence/lis.md)
 - [LCS, Longest Common Subsequence](https://github.com/ekim49/TIL/blob/main/Longest-Common-Subsequence/lcs.md)
 
