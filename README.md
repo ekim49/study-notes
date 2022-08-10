@@ -13,6 +13,7 @@ Mostly are written in Korean.
 - [Insertion Sort](https://github.com/ekim49/TIL/blob/main/Insertion-Sort/insertionSort.md)
 - [LIS(Longest Increasing Subsequence)](https://github.com/ekim49/TIL/blob/main/Longest-Increasing-Subsequence/lis.md)
 - [LCS(Longest Common Subsequence)](https://github.com/ekim49/TIL/blob/main/Longest-Common-Subsequence/lcs.md)
+- [Quick Sort](https://github.com/ekim49/TIL/blob/main/Quick-sort/quicksort.md)
 - [Selection Sort](https://github.com/ekim49/TIL/blob/main/Selection-Sort/selection-sort.md)
 
 ## CS
