@@ -16,6 +16,9 @@ Mostly are written in Korean.
 - [Quick Sort](https://github.com/ekim49/TIL/blob/main/Quick-sort/quicksort.md)
 - [Selection Sort](https://github.com/ekim49/TIL/blob/main/Selection-Sort/selection-sort.md)
 
+## AWS
+- [AWS 개발 환경 구축](https://github.com/ekim49/TIL/blob/main/AWS-Setup.md/aws-setup.md)
+
 ## CS
 - [HTTP의 무상태성과 비연결성](https://github.com/ekim49/TIL/tree/main/HTTP)
 
