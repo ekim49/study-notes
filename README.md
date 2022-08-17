@@ -8,6 +8,7 @@ Mostly are written in Korean.
 한글 / 영어 TIL 섞여 있음!📝
 
 ## Algorithm
+- [Big-O Notation과 시간복잡도 & 공간복잡도](https://github.com/ekim49/TIL/blob/main/Big-O-Notation/big-o-notation.md)
 - [Binary Search](https://github.com/ekim49/TIL/blob/main/Binary-search/binary-search.md)
 - [Bubble Sort](https://github.com/ekim49/TIL/blob/main/Bubble-Sort/bubbleSort.md)
 - [Insertion Sort](https://github.com/ekim49/TIL/blob/main/Insertion-Sort/insertionSort.md)
