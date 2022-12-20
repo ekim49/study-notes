@@ -21,7 +21,7 @@ Mostly are written in Korean.
 - [AWS 개발 환경 구축](https://github.com/ekim49/TIL/blob/main/AWS-Setup.md/aws-setup.md)
 
 ## CS
-- [HTTP의 무상태성과 비연결성](https://github.com/ekim49/TIL/tree/main/HTTP)
+- [HTTP의 무상태성과 비연결성](https://github.com/ekim49/TIL/blob/main/HTTP/http.md)
 
 ## Data Structure
 - [Binary Heap: Min-Heap](https://github.com/ekim49/TIL/blob/main/Binary-heaps/binary_heap.md)
