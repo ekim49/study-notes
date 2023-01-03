@@ -22,6 +22,7 @@ Mostly are written in Korean.
 
 ## CS
 - [HTTP의 무상태성과 비연결성](https://github.com/ekim49/TIL/blob/main/HTTP/http.md)
+- [HTTP 메서드의 종류와 특징](https://github.com/ekim49/TIL/blob/main/HTTP/http-methods.md)
 
 ## Data Structure
 - [Binary Heap: Min-Heap](https://github.com/ekim49/TIL/blob/main/Binary-heaps/binary_heap.md)
