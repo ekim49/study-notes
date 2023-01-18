@@ -29,6 +29,7 @@ Mostly are written in Korean.
 
 ## JavaScript
 - [DOM과 Virutal DOM](https://github.com/ekim49/TIL/blob/main/VirtualDOM/virtualDOM.md)
+- [함수 선언문과 함수 표현식의 차이](https://github.com/ekim49/TIL/blob/main/JS-Function/JS-Function.md)
 
 ## React
 - [Custom Hooks](https://github.com/ekim49/TIL/blob/main/Custom%20Hooks/customhooks.md)
